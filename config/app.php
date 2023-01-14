@@ -154,6 +154,10 @@ return [
     |
     */
 
+    'photo_room' => [
+        'api_key' => env("PHOTO_ROOM_API_KEY")
+    ],    
+
     'providers' => [
 
         /*
